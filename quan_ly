@@ -1,0 +1,8 @@
+app.py
+init_db.py
+generate_qr.py
+requirements.txt
+flask
+qrcode
+pillow
+
